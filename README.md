@@ -1,22 +1,14 @@
-## Hi there 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kerry%20Fendy&animation=twinkling&desc=Web%20Developer%20|%20Frontend%20Engineer%20|%20Software%20Engineer&fontAlignY=41" alt="Header" />
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-kerryf.me-58A6FF?style=for-the-badge)](https://kerryf.me)
+<br/>
+<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KryFD&theme=black-ice)](https://git.io/streak-stats)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KryFD/KryFD/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KryFD/KryFD/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KryFD/KryFD/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--
-**KryFD/KryFD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
